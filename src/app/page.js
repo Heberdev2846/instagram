@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="flex h-screen">
       <Navbarizq />
-      <div className="w-screen border">
+      <div className="w-screen border-l border-zinc-800">
         <div className="flex">
           <ItemList />
           <Navbarder />

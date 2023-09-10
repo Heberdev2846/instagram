@@ -4,7 +4,7 @@ import React from "react";
 
 const Navbarizq = () => {
   return (
-    <div className="w-72 border">
+    <div className="w-64">
         <h1 className="p-6 mt-2 ml-2">Instagram</h1>
         <div className="flex mt-4 ">
             <a href="" className="rounded-lg ml-2 p-4 pr-24 hover:bg-zinc-800">
@@ -54,8 +54,8 @@ const Navbarizq = () => {
             <span className="ml-2">Perfil</span>
             </a>
         </div>
-        <div className="flex mt-96">
-            <a href="" className="rounded-lg ml-2 mt-60 p-4 pr-24 hover:bg-zinc-800">
+        <div className="flex mt-4">
+            <a href="" className="rounded-lg ml-2 p-4 pr-24 hover:bg-zinc-800">
             <span className="ml-2">...</span>
             <span className="ml-2">Mas</span>
             </a>
